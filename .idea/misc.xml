@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/drawable/color_state.xml" value="0.1515" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1515" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_logout.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_profile.xml" value="0.4" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_slider.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_slider1.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_slider2.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_slider3.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/activity_welcome.xml" value="0.23796296296296296" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/fragment_add_diary.xml" value="0.23796296296296296" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/fragment_note.xml" value="0.23796296296296296" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/layout/item_daily.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/Jokian/UAS AKB IF2-10119074/app/src/main/res/menu/bottom_navbar.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

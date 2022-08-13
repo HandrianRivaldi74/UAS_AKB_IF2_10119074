@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="50dp"
+    android:background="#DCEDCC"
+    tools:context=".todolist.FragmentTodolist"
+    >
+
+    <TextView
+        android:id="@+id/text_diary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="30dp"
+        android:text="Study List"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="18dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Judul"
+        android:inputType="text"
+
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="100dp"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="142dp" />
+
+    <EditText
+        android:id="@+id/isi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Maksimal 10 Kata"
+
+        android:inputType="textMultiLine"
+        app:layout_constraintTop_toBottomOf="@id/judul"/>
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/isi"
+        android:layout_marginTop="50dp"
+        android:text="Tambah"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
